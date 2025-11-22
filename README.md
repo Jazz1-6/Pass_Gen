@@ -21,3 +21,4 @@ A simple desktop app that
  and should run it any compiler such as vs code editor
 >Instructions for testing:
  please do install all the required modules and dont change the code and the errors which may occur have been handled
+![image alt](https://github.com/Jazz1-6/Pass_Gen/blob/01f2049eef28f910c1234ada9479fb82def9161d/Screenshot%202025-11-23%20010950.png)
