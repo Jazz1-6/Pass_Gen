@@ -4,7 +4,7 @@ import re
 # Initialize colorama
 init(autoreset=True)
 
-# Color definitions
+# Color definition
 COLOR_GREEN = Fore.GREEN
 COLOR_RED = Fore.RED
 COLOR_YELLOW = Fore.YELLOW
@@ -160,4 +160,5 @@ if __name__ == "__main__":
     print(f"{COLOR_CYAN}{'★' * 60}{Style.RESET_ALL}")
     
     manager = PasswordManager()
+
     manager.run()
