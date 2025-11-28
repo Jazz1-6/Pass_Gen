@@ -13,7 +13,7 @@ COLOR_CYAN = Fore.CYAN
 COLOR_MAGENTA = Fore.MAGENTA
 
 # Password Generation Functions
-def generate_password(length):
+def generate_password(length): #this is used to define a function for generating a password
     """Generate a strong password with given length"""
     password = ""
     small_az = "qwertyuiopasdfghjklzxcvbnm"
@@ -162,3 +162,4 @@ if __name__ == "__main__":
     manager = PasswordManager()
 
     manager.run()
+
